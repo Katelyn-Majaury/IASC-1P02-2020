@@ -1,0 +1,7 @@
+body{background-color: red;}
+
+.green{color: green;
+font-style: italic;}
+
+li{font-size: 30px;
+display: inline;}
