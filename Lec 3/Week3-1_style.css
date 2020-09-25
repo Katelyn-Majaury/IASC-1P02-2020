@@ -1,0 +1,25 @@
+body{background-color:black;}
+
+.redPara{color:red;}
+
+.GreenPara{color: Green;
+font-weight:  bold;
+font-size:  20px;
+text-align: center;}
+
+.OrangePara{color:  orange;
+font-size: 20px;
+}
+
+.SuperRed{color:red;
+vertical-align: super;
+font-size: 15px;}
+
+.PurplePara{color: purple;
+font-size: 20px;
+text-align: right;}
+
+.YellowUpper{color: Yellow;
+text-transform: uppercase;
+font-size: 20px;
+font-style: italic;}
