@@ -1,0 +1,26 @@
+.purplebox{border: purple 3px dotted;
+margin: 5px;}
+
+.centeredtext{text-align: center;
+padding-bottom: 10px;
+padding-top: 200px;
+font-size: 15px}
+
+.greentext{color: green;
+font-size: 10px;
+text-align: center;
+font-weight: bold;}
+
+.orangetext{color: orange;
+font-size: 30px;}
+
+.redtext{color: red;
+vertical-align: super;}
+
+.purpletext{color: purple;
+text-align: right;
+font-size: 10px}
+
+.yellowtext{color: yellow;
+text-transform: uppercase;
+font-style: italic;}
