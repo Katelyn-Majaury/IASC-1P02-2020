@@ -1,5 +1,6 @@
 
-body{background-color:green;}
+body{background-color:green;
+font-weight: bold;}
 
 #wrapper{width:700px;
 margin:0 auto;
@@ -12,22 +13,18 @@ text-align:center;}
 width:175px;
 height: 55px;
 background-color: pink;
-font-weight: bold;
 padding-top: 15px;}
 
 #rightbody{float:right;
 width:525px;
 height:55px;
-background:orange;
-font-weight: bold;
+background-color:orange;
 padding-top: 15px;}
 
 #content{height: 600px;
 width: 700px;
-background-color: blue;
-font-weight: bold;}
+background-color: blue;}
 
 #footer{height:50px;
 clear:both;
-background-color: yellow;
-font-weight: bold;}
+background-color: yellow;}
