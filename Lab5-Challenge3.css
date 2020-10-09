@@ -9,7 +9,7 @@ min-height: 600px;}
 
 #leftbox{float:left;
 position: absolute;
-left: 240px;
+left: 17%;
 top: 20px;
 width:250px;
 height: 240px;
@@ -18,7 +18,7 @@ padding-top: 10px;}
 
 #rightbox{float:right;
 position: absolute;
-right: 240px;
+right: 17%;
 top: 20px;
 width:250px;
 height:240px;
