@@ -1,0 +1,81 @@
+body{color:black;
+background-color:black;}
+
+h2,p,li{color: yellow;}
+
+.LargeFont {font-size: 20px;} ol{font-style: italic;}
+
+#wrapper{width:100%;
+height:1350px;
+margin:0 auto;
+background-color:Orange;}
+
+#header{height:415px;
+text-align:center;
+color:purple;}
+
+.greeting{float:left;
+position:absolute;
+left: 27%}
+
+.absolutelink{float:left;
+margin-left: 10px;}
+
+.relativelink{float:left;
+margin-left: 10px;}
+
+.whitefont{color:white;}
+
+#leftbody{float:left;
+width:300px;
+height:440px;
+background-color: black;
+padding:5px;
+margin-left: 10px;}
+
+.List{text-align: center;}
+
+.Lowercase{text-transform: lowercase;}
+
+#leftbody2{float:left;
+width:300px;
+height:440px;
+background-color:black;
+padding:5px;
+margin-left: 70px;}
+
+.Italic{font-style: italic;
+font-size:20px;}
+
+#rightbody{float:right;
+width:612px;
+height:410px;
+background-color:black;
+padding:20px;
+margin-right: 10px}
+
+.Capitalize{text-transform: capitalize;}
+
+.Uppercase{text-transform: uppercase;}
+
+#lowercontent{float:left;
+width:98%;
+height:460px;
+background:purple;
+margin: 15px;}
+
+.image1{float:right;
+position: relative;
+right: 27%;
+top: 15px;
+border:white 2px dotted;
+padding: 5px;}
+
+.fixed{position:fixed;
+left:90%;
+bottom:75%;
+z-index: 10;}
+
+#bottom{text-align:center;
+height:150px;
+clear:both;}
