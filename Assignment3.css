@@ -1,0 +1,180 @@
+#wrapper{width:1000px;
+height:660px;
+background-color: #A8D3E3;
+margin: 0 auto;
+padding-top: 5px;}
+
+#Header{border: 2px white solid;
+margin: 10px;
+background-color: #293135;
+color: #C8DDE7;}
+
+.Headerimage{width: 140px;
+height: 55px;
+border: 1px white solid;
+float: left;
+position: relative;
+margin-top: 20px;
+margin-left: 40px;
+padding: 10px;}
+
+#Header p{text-align: center;
+height:30px;}
+
+.Heading{font-weight: bold;
+font-size: 20px;}
+
+.subheading{font-size: 15px;}
+
+#information{width: 230px;
+float: left;
+height: 440px;
+background-color:#293135;
+padding: 5px;
+font-size: 15px;}
+
+.border{width: 240px;
+float: left;
+height: 450px;
+border: 2px white solid;
+margin-left: 10px;
+margin-right: 10px;}
+
+.Content1{width: 215px;
+margin: 0 auto;
+height: 120px;
+border: 1px white solid;
+padding-left: 10px;
+padding-bottom: 20px;
+color: #C8DDE7;}
+
+.xrayimage{float: left;
+width: 60px;
+height: 60px;
+border: 1px white solid;
+float: left;
+position: relative;
+padding: 10px;}
+
+.Content2{width: 215px;
+margin: 0 auto;
+margin-top: 5px;
+height: 280px;
+clear: both;
+border: 1px white solid;
+padding-left: 10px;
+padding-top: 10px;
+color: #C8DDE7;}
+
+.Content2 p{clear: both;
+padding-top: 15px;}
+
+#contentbox1{width: 721px;
+height: 66px;
+float: left;
+background-color: #293135;
+margin-bottom: 10px;
+margin-right: 5px;
+border: 2px white solid;
+color: #C8DDE7;}
+
+.Link1{width: 95px;
+height: 30px;
+border: 1px white solid;
+float: left;
+position: relative;
+margin-top: 15px;
+margin-left: 40px;
+text-align: center;
+font-size: 12px;
+padding-top: 5px;}
+
+.Link2, .Link3, .Link4, .Link5{width: 95px;
+height: 30px;
+border: 1px white solid;
+float: left;
+position: relative;
+margin-top: 15px;
+margin-left: 40px;
+text-align: center;
+font-size: 12px;
+padding-top: 5px;}
+
+#contentbox2{float: left;
+width:721px;
+height:366px;
+background-color: #293135;
+margin-bottom: 10px;
+margin-right: 5px;
+border: 2px white solid;
+color: #C8DDE7;
+text-align: left;}
+
+.Content3, .Content4,.Content6{height: 120px;
+width:300px;
+border: 1px white solid;
+float: left;
+position: relative;
+margin-top: 20px;
+margin-left: 40px;}
+
+.Content5{height: 120px;
+width:300px;
+clear: both;
+border: 1px white solid;
+float: left;
+position: relative;
+margin-top: 20px;
+margin-left: 40px;}
+
+.Puzzlepieceimage{float: left;
+width: 20px;
+height: 20px;
+border: 1px white solid;
+float: left;
+position: relative;
+padding: 10px;
+margin: 5px;
+font-size: 10px;}
+
+.EquipmentDropbox, .AccessoriesDropbox,
+.SuppliesDropbox, .PartsDropbox{height: 50px;
+width:200px;
+margin: 0 auto;
+border: 1px white solid;}
+
+.searchbar{float: left;
+width:550px;
+height:20px;
+margin-bottom: 10px;
+margin-right: 5px;
+margin-left: 50px;
+margin-top: 20px;
+border: 1px white solid;
+text-align: left;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;}
+
+.gobutton{float: left;
+width:35px;
+height:20px;
+margin-bottom: 10px;
+margin-right: 5px;
+margin-left: 5px;
+margin-top: 20px;
+border: 1px white solid;
+text-align: left;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;}
+
+#footer p{ clear: both;
+height: 40px;
+margin: 10px;
+border: 2px white solid;
+background-color: #293135;
+color: #C8DDE7;
+text-align: center;
+font-size: 10px;
+padding-top: 10px;}
