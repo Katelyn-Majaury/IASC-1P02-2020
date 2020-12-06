@@ -1,0 +1,217 @@
+#Wrapper{width: 100%;
+height: 1195px;
+background-color: #d7ad9d;
+margin: 0 auto;}
+
+#Header{width: 97.2%;
+height: 150px;
+background-color: #f7e8e3;
+color: #020101;
+float: left;
+margin-right: 5px;
+margin-top: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+padding-left: 15px;
+padding-top: 15px;
+border: #020101 3px solid;}
+
+.Headerimage1{width: 150px;
+height: 131px;
+position: relative;
+margin: 0 auto;
+float: left;
+border: #020101 3px solid;}
+
+.WebsiteName{width: 700px;
+height: 150px;
+position: absolute;
+margin: 0 auto;
+margin-left: 365px;
+margin-top: 15px;
+text-align: center;
+margin-top: 45px;}
+
+.Headerimage2{width: 150px;
+height: 131px;
+position: relative;
+margin: 0 auto;
+float: right;
+border: #020101 3px solid;
+margin-right: 15px;}
+
+#NavigationArea{width: 98.2%;
+height: 70px;
+background-color: #f7e8e3;
+text-align: center;
+float: left;
+margin-right: 10px;
+margin-top: 1px;
+margin-left: 10px;
+margin-bottom: 11px;
+border: #020101 3px solid;}
+
+.NavigationLinks{width: 130px;
+height: 30px;
+background-color: #946659;
+float: left;
+position: relative;
+margin-left: 120px;
+margin-top: 15px;
+padding-top: 10px;}
+
+.NavigationLinks:hover{background-color: #020101;}
+
+.Link4{width: 130px;
+height: 30px;
+background-color: #946659;
+float: left;
+position: relative;
+margin-left: 120px;
+margin-top: 15px;
+margin-right: 105px;
+padding-top: 10px;}
+
+.Link4:hover{background-color: #020101;}
+
+/*https://www.w3schools.com/cssref/tryit.asp?filename=trycss_sel_hover was used for hovering links*/
+
+.Linklabel{color: #d9c6c0;
+font-size: 17px;
+font-weight: bold;
+margin-top: 5px;}
+
+.SocialMedia{width: 40px;
+height: 40px;
+position: relative;
+float: left;
+margin-top: 15px;
+margin-right: 25px;
+margin-left: 15px;}
+
+#ContentArea{width:98%;
+height: 785px;
+text-align: center;
+clear: both;
+margin: 0 auto;
+background-color: #946659;
+border: #020101 3px solid;}
+
+.ContentText1{width: 97.5%;
+height: 150px;
+margin-left: 15px;
+margin-top: 15px;
+text-align: center;
+color: #020101;
+background-color: #f7e8e3;
+border: #020101 3px solid;}
+
+.RadioButtons{width: 97.5%;
+height: 150px;
+margin-left: 15px;
+margin-top: 10px;
+text-align: center;
+color: #020101;
+background-color: #f7e8e3;
+border: #020101 3px solid;}
+
+.Question1{text-align: left;
+padding-left: 20px;}
+
+#opinion1, #opinion2, #opinion3, #opinion4, #opinion5{width: 40px;
+height: 40px;
+background-color: #946659;
+float: left;
+position: relative;
+margin-left: 190px;
+margin-top: 10px;}
+
+.Bad{text-align: left;
+font-weight: bold;
+float: left;
+margin-left: 170px;
+margin-top: 10px;
+clear: both;}
+
+.Good{text-align: right;
+font-weight: bold;
+float: right;
+margin-right: 170px;
+margin-top: 10px;}
+
+.InputArea{width: 97.5%;
+height: 420px;
+margin-left: 15px;
+margin-top: 10px;
+text-align: center;
+color: #020101;
+background-color: #f7e8e3;
+border: #020101 3px solid;}
+
+#form{position:absolute;
+top:635px;
+bottom: 200px;
+left: 75px;
+right: 10px;
+text-align: left;}
+
+#ContentImage{position:absolute;
+left:930px;
+top: 30px;
+bottom: 10px;
+width: 350px;
+height:355px;}
+
+#nameinput{position:absolute;
+top:110px;
+width:300px;
+height:2px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin:auto 0;}
+
+#emailinput{position:absolute;
+top:160px;
+width:300px;
+height:2px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin:auto 0;}
+
+#concernsinput{position:absolute;
+top:210px;
+width:700px;
+height:150px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin:auto 0;}
+
+button{width: 80px;
+position:absolute;
+top:330px;
+left:740px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin:auto 0;}
+
+#Footer{width: 98.1%;
+height: 95px;
+background-color: #f7e8e3;
+color: #020101;
+font-size: 12px;
+text-align: center;
+float: left;
+margin-right: 10px;
+margin-top: 8px;
+margin-left: 10px;
+clear: both;
+border: #020101 3px solid;
+padding-top: 5px;}
